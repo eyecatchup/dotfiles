@@ -1,0 +1,17 @@
+[user]
+	email = eyecatchup@gmail.com
+	name = Stephan Schmitz
+[core]
+	excludesfile = ~/.gitignore_global
+	autocrlf = Input
+	editor = \"C:/opt/GitExtensions.exe\" fileeditor
+[merge]
+	tool = kdiff3
+[mergetool "kdiff3"]
+	path = C:/Progra~1/KDiff3/kdiff3.exe
+[diff]
+	guitool = kdiff3
+[difftool "kdiff3"]
+	path = C:/Progra~1/KDiff3/kdiff3.exe
+[i18n]
+	filesEncoding = utf-8
