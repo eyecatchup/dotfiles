@@ -1,0 +1,55 @@
+# [<type>] <subject>
+
+# <body>
+
+# <footer>
+
+# ------------------------------------------------------------------------------
+# <type> should be one of the following:
+#
+#   * Add
+#   * Mod(ify)
+#   * Del(ete)
+#   * Fix
+#   * Ref(actoring)
+#   * For(matting)
+#   * Cho(re)
+#   * Doc(s)
+#   * Tes(t)
+#
+# That way it's much easier to skim the logs. For example:
+#
+# * [Add] New function to rule the world. (Task #1)
+# * [Mod] Add women factor in Domination.ruleTheWorld(). (Task #2)
+# * [Del] Remove obsolete Domination.filterFemales() function. (Task #3)
+# * [Fix] Catch nullpointer exception in Domination.getRules(). (Issue #1)
+# * [Ref] Extract and move empathy stuff to an abstract class. (Task #4)
+# * [For] Fix typo in README.md. (Issue #2)
+# * [Cho] Update grunt build task. (Task #5)
+# * [Doc] Add section for the --female target to build instructions. (Task #6)
+# * [Tes] Add unit-test for women factor in Domination.ruleTheWorld(). (Task #2)
+
+# ------------------------------------------------------------------------------
+# <subject> should use impertivite tone and describe, in essence, what you did.
+#
+# Impertivite tone means that, for example, you should use 'Change', and not
+# 'Changed' or 'Changes'. Or use 'Add', and not 'Added' or 'Adds'.
+
+
+# ------------------------------------------------------------------------------
+# The <body> should go into detail about changes made.
+
+# ------------------------------------------------------------------------------
+# The <footer> should contain any JIRA (or other tool) issue references.
+#
+# For example:
+#
+# Related Jira Issues:
+# ISSUE_KEY #comment This is a comment
+# ISSUE_KEY #done
+
+
+# ------------------------------------------------------------------------------
+# For a full example of how to write a good commit message, check out
+# https://github.com/sparkbox/how_to/tree/master/style/git
+# ------------------------------------------------------------------------------

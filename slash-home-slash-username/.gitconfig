@@ -5,6 +5,8 @@
 	excludesfile = ~/.gitignore_global
 	autocrlf = Input
 	editor = \"C:/opt/GitExtensions.exe\" fileeditor
+[commit]
+    template = ~/.git-commit-template.txt
 [merge]
 	tool = kdiff3
 [mergetool "kdiff3"]
