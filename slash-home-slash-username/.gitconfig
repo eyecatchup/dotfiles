@@ -2,11 +2,11 @@
 	email = eyecatchup@gmail.com
 	name = Stephan Schmitz
 [core]
-	excludesfile = ~/.gitignore_global
+	excludesfile = ~/gitconfig/.gitignore_global
 	autocrlf = Input
 	editor = \"C:/opt/GitExtensions.exe\" fileeditor
 [commit]
-    template = ~/.git-commit-template.txt
+    template = ~/gitconfig/.git-commit-template.txt
 [merge]
 	tool = kdiff3
 [mergetool "kdiff3"]
