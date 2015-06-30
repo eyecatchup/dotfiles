@@ -1,3 +1,0 @@
-*.sh whitespace=indent,trail,space
-*.js whitespace=indent,trail,space
-*.php whitespace=indent,trail,space
