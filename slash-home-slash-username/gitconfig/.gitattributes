@@ -1,6 +1,7 @@
-*.md   whitespace=indent,trail,space filter=tabtospace
-*.sh   whitespace=indent,trail,space filter=tabtospace
 *.js   whitespace=indent,trail,space filter=tabtospace
+*.css  whitespace=indent,trail,space filter=tabtospace
+*.html whitespace=indent,trail,space filter=tabtospace
 *.py   whitespace=indent,trail,space filter=tabtospace
 *.php  whitespace=indent,trail,space filter=tabtospace
-*.html whitespace=indent,trail,space filter=tabtospace
+*.sh   whitespace=indent,trail,space filter=tabtospace
+*.md   whitespace=indent,trail,space filter=tabtospace
