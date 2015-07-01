@@ -1,11 +1,11 @@
-# [<type>] <subject>
+[type] subject
 
 # <body>
 
 # <footer>
 
 # ------------------------------------------------------------------------------
-# <type> should be one of the following:
+# 'type' should be one of the following:
 #
 #   * Add
 #   * Mod(ify)
@@ -30,17 +30,17 @@
 # * [Tes] Add unit-test for women factor in Domination.ruleTheWorld(). (Task #2)
 
 # ------------------------------------------------------------------------------
-# <subject> should use impertivite tone and describe, in essence, what you did.
+# 'subject' should use impertivite tone and describe, in essence, what you did.
 #
 # Impertivite tone means that, for example, you should use 'Change', and not
 # 'Changed' or 'Changes'. Or use 'Add', and not 'Added' or 'Adds'.
 
 
 # ------------------------------------------------------------------------------
-# The <body> should go into detail about changes made.
+# The 'body' should go into detail about changes made.
 
 # ------------------------------------------------------------------------------
-# The <footer> should contain any JIRA (or other tool) issue references.
+# The 'footer' should contain any JIRA (or other tool) issue references.
 #
 # For example:
 #
